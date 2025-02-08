@@ -1,0 +1,14 @@
+H:\ITI .Net\#11 EF and Linq\Day 2\Day 2\bin\Debug\net8.0\Day 2.exe
+H:\ITI .Net\#11 EF and Linq\Day 2\Day 2\bin\Debug\net8.0\Day 2.deps.json
+H:\ITI .Net\#11 EF and Linq\Day 2\Day 2\bin\Debug\net8.0\Day 2.runtimeconfig.json
+H:\ITI .Net\#11 EF and Linq\Day 2\Day 2\bin\Debug\net8.0\Day 2.dll
+H:\ITI .Net\#11 EF and Linq\Day 2\Day 2\bin\Debug\net8.0\Day 2.pdb
+H:\ITI .Net\#11 EF and Linq\Day 2\Day 2\obj\Debug\net8.0\Day 2.GeneratedMSBuildEditorConfig.editorconfig
+H:\ITI .Net\#11 EF and Linq\Day 2\Day 2\obj\Debug\net8.0\Day 2.AssemblyInfoInputs.cache
+H:\ITI .Net\#11 EF and Linq\Day 2\Day 2\obj\Debug\net8.0\Day 2.AssemblyInfo.cs
+H:\ITI .Net\#11 EF and Linq\Day 2\Day 2\obj\Debug\net8.0\Day 2.csproj.CoreCompileInputs.cache
+H:\ITI .Net\#11 EF and Linq\Day 2\Day 2\obj\Debug\net8.0\Day 2.dll
+H:\ITI .Net\#11 EF and Linq\Day 2\Day 2\obj\Debug\net8.0\refint\Day 2.dll
+H:\ITI .Net\#11 EF and Linq\Day 2\Day 2\obj\Debug\net8.0\Day 2.pdb
+H:\ITI .Net\#11 EF and Linq\Day 2\Day 2\obj\Debug\net8.0\Day 2.genruntimeconfig.cache
+H:\ITI .Net\#11 EF and Linq\Day 2\Day 2\obj\Debug\net8.0\ref\Day 2.dll
